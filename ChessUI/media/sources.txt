@@ -1,0 +1,8 @@
+Figures:
+http://en.wikipedia.org/wiki/Chess_piece
+
+Resources:
+http://qt-project.org/doc/qt-4.8/resources.html
+
+UI:
+http://chessprogramming.wikispaces.com/GUI

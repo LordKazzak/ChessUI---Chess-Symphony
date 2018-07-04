@@ -1,0 +1,16 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file alias="wp">wp.png</file>
+     <file alias="bp">bp.png</file>
+     <file alias="wn">wn.png</file>
+     <file alias="bn">bn.png</file>
+     <file alias="wb">wb.png</file>
+     <file alias="bb">bb.png</file>
+     <file alias="wr">wr.png</file>
+     <file alias="br">br.png</file>
+     <file alias="wq">wq.png</file>
+     <file alias="bq">bq.png</file>
+     <file alias="wk">wk.png</file>
+     <file alias="bk">bk.png</file>
+ </qresource>
+ </RCC>

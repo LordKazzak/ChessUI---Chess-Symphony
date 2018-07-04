@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Board2D>
+    <wSqColor>#ffffff</wSqColor>
+    <bSqColor>#000000</bSqColor>
+    <font>MS Shell Dlg 2,9,-1,5,75,1,0,0,0,0</font>
+    <piecePath>D:\ChessssUI\Project\ChessUI\media</piecePath>
+    <wSqPath>D:/ChessUIss/Project/ChessUI/media/wsq.png</wSqPath>
+    <bSqPath>D:/ChessUssI/Project/ChessUI/media/bsq.png</bSqPath>
+    <sWSqColor>0</sWSqColor>
+    <sBSqColor>0</sBSqColor>
+    <enginePath>D:/ChessUI/Engines/Stockfish/stockfish-dd-win/Windows/stockfish-dd-64-modern.exe</enginePath>
+    <depth>10</depth>
+    <time>1</time>
+    <language>Slovene</language>
+</Board2D>
